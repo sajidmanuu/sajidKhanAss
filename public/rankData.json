@@ -1,0 +1,59 @@
+[
+  {
+      "rank": "#1",
+      "collegeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/640px-IIT_Madras_Logo.svg.png",
+      "collegeName": "IIT Madras - Indian Institute of Technology, [IITM], Chennai",
+      "location": "(Chennai, Tamil Nadu, AICTE Approved)",
+      "courseName": "B.Tech Computer Science Engineering",
+      "cutoff": "JEE-Advance Cutoff-144",
+      "fees": "2,05,550",
+      "avgPackage": "21,05,550",
+      "highestPackage": "1,98,05,550",
+      "userRating": "8.1/10",
+      "userReviews": "Based on 289 User reviews",
+      "rankingInfo": "#3rd/131 in India (THE WEEK 2023)"
+  },
+  {
+      "rank": "#2",
+      "collegeLogo": "https://upload.wikimedia.org/wikipedia/en/4/4c/Official_Logo_of_IIT%28BHU%29%2CVaranasi%2CIndia%2C2013.png",
+      "collegeName": "IIT (BHU) Varanasi",
+      "location": "(City, State, AICTE Approved)",
+      "courseName": "B.Tech Mechanical Engineering",
+      "cutoff": "Entrance Exam Cutoff - 150",
+      "fees": "1,80,000",
+      "avgPackage": "18,00,000",
+      "highestPackage": "1,75,00,000",
+      "userRating": "9.2/10",
+      "userReviews": "Based on 500 User reviews",
+      "rankingInfo": "#5th/200 in India (Times Higher Education 2023)"
+  },
+  {
+      "rank": "#3",
+      "collegeLogo": "https://www.thestatesman.com/wp-content/uploads/2023/06/A451ABAD-AD43-492B-873F-66168A44DB83.jpeg",
+      "collegeName": "Delhi University",
+      "location": "(City, State, AICTE Approved)",
+      "courseName": "B.Tech Electrical Engineering",
+      "cutoff": "Entrance Exam Cutoff - 160",
+      "fees": "2,00,000",
+      "avgPackage": "17,50,000",
+      "highestPackage": "1,90,00,000",
+      "userRating": "8.8/10",
+      "userReviews": "Based on 400 User reviews",
+      "rankingInfo": "#8th/250 in India (QS World University Rankings 2023)"
+  },
+  {
+      "rank": "#4",
+      "collegeLogo": "https://upload.wikimedia.org/wikipedia/en/3/3a/Lovely_Professional_University_logo.png",
+      "collegeName": "Lovely Professional University",
+      "location": "(City, State, AICTE Approved)",
+      "courseName": "B.Tech Civil Engineering",
+      "cutoff": "Entrance Exam Cutoff - 140",
+      "fees": "1,50,000",
+      "avgPackage": "16,00,000",
+      "highestPackage": "1,80,00,000",
+      "userRating": "7.5/10",
+      "userReviews": "Based on 350 User reviews",
+      "rankingInfo": "#12th/300 in India (NIRF Rankings 2023)"
+  }
+  
+]
